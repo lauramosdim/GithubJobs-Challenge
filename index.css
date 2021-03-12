@@ -1,0 +1,14 @@
+body {
+    margin: 50px 50px 100px 50px;
+    
+}
+
+.inputBackground{
+    padding: 50px;
+    background: blue;
+}
+
+.btn-outline-secondary{
+    background: lightblue;
+    color: black;
+}
